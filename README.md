@@ -56,15 +56,6 @@
 
 ###
 
-<h3 align="left">🗂️   My pet-projects </h3>
-<h5> Проект на ReactJS, позволяет пользователю выбирать желанный товар (пиццу), сортировать его по видам, добавлять в корзинуи и убирать из неё: https://github.com/NoDioxide/magazine </h5>
-<h5> Коммерческий проект, выполняющийся с командой, на тему существующего храма, который пойдёт в использование. Используются html,css,js (также используется фреймворк django, но в локальном проекте) Открывать Index.html, остальные созданы для тестирования функций: https://github.com/NoDioxide/ChurchMain </h5>
-<h6> P.S. Предыдущий гит с этим же проектом: https://github.com/NoDioxide/ChurchTest</h6>
-
-<h3 align="left">🔥   My Stats</h3>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NoDioxide&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true&order=1&custom_title=%E3%85%A4" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NoDioxide&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=material-palenight&hide_border=true&order=2" height="150" alt="languages graph"  />
