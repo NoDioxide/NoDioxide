@@ -5,9 +5,6 @@
   <a href="mailto:nodioxide@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Write%20me%20a%20Letter&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://discordapp.com/users/699649893127553105" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=DM%20me&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
 </div>
 
 ###
